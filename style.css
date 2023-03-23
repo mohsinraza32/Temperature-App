@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+}
+.main{
+    text-align: center; 
+    font-family: sans-serif;
+}
+div > h1{
+    color: red;
+}
+label{
+    color: red;
+}
+button{
+    color: brown;
+    background-color: yellow;
+}
+button:hover{
+    background-color:cornflowerblue;
+    cursor: pointer;
+}
